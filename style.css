@@ -1,0 +1,18 @@
+form {
+    max-width: 500px;
+    margin: 2em auto;
+    border: 2px solid purple;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+form button{
+    margin-right: 400px;
+    
+}
+label {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+}
